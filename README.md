@@ -2,10 +2,6 @@ My first Excel Bootcamp personal assignment, documenting my learning experience 
 # Project 01: Cleaning 1,000 Messy Sales Records Using Excel
 
 ## Project Background
-## Project Files
-
-- [Excel Workbook](./Personal%20Task%20Basic.xlsx)
-- [Project Presentation](./Project%20Presentation.pdf)
 
 This project was completed as a personal assignment during an Excel Bootcamp I participated in.
 
@@ -14,6 +10,11 @@ At the beginning of this learning journey, I had little to no experience using M
 The project involved working with a Superstore practice dataset containing 1,000 sales records. The main objective was to prepare the dataset and use Excel formulas to answer several business-related questions.
 
 This project represents one of my first steps in developing practical data analysis skills.
+
+## Project Files
+
+- [Excel Workbook](./Personal%20Task%20Basic.xlsx)
+- [Project Presentation](./Project%20Presentation.pdf)
 
 ## Learning Objectives
 
