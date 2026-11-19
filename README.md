@@ -1,5 +1,5 @@
-My first Excel Bootcamp personal assignment, documenting my learning experience in data cleaning, formula-based analysis, and data preparation.
 # Project 01: Cleaning 1,000 Messy Sales Records Using Excel
+My first Excel Bootcamp personal assignment, documenting my learning experience in data cleaning, formula-based analysis, and data preparation.
 
 ## Project Background
 
